@@ -1,0 +1,13 @@
+.header {
+    background: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav a {
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #004a4d;
+  }
+  
